@@ -56,3 +56,7 @@ hr {
   border-bottom: 1px solid #003d73;
   /* display: none; */
 }
+
+a {
+  color: white;
+}
