@@ -17,7 +17,8 @@ img {
 
 .left-section {
   width: 2000px;
-  height: 1550px;
+  /* height: 1550px; */
+  height: 1600px;
   background-color: #003d73;
   border: 1px solid black;
   color: white;
